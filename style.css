@@ -75,3 +75,7 @@ p {
     color: var(--grey);
     max-width: 256px;
 }
+
+.footer {
+    text-align: center;
+}
